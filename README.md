@@ -4,6 +4,7 @@ Hey! I'm a freelance developer and code mainly with Node.js and Java, with a few
 -------
 
 Discord: ross#0420
+
 NameMC: [rnss](https://namemc.com/profile/rnss.2)
 
 -------

@@ -1,9 +1,9 @@
-### Welcome to my page! 👋
-Hey! I'm a freelance developer and code mainly with Node.js and Java, with several years of experience coding frontend and backend projects.
+### hello 👋
+i like node.js and java a lot !!!
 
 -------
 
-Discord: ross#1992
+Discord: rnss.club
 
 -------
 

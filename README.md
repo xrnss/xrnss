@@ -1,9 +1,5 @@
 ### hello 👋
-i like node.js and java a lot !!!
-
--------
-
-Discord: rnss.club
+i like node.js and java !!!
 
 -------
 
